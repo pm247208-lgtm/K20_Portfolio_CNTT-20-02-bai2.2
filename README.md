@@ -1,1 +1,1 @@
-# K20_Portfolio_CNTT-20-02-bai2.2
+# K20_Lab6
